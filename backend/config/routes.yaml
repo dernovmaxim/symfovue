@@ -1,0 +1,7 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+#
+#auth:
+#    path: /auth
+#    controller: App\Controller\AuthController::index
